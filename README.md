@@ -22,3 +22,4 @@ Inquirer: https://www.npmjs.com/package/inquirer
 
 ## Example Video
 
+https://drive.google.com/file/d/1EYV9Z45Pe-aFF26-9V0NVf5JnHRbMUnP/view?usp=sharing
